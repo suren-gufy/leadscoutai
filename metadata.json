@@ -1,0 +1,5 @@
+{
+  "name": "LeadScout AI",
+  "description": "An AI-powered lead generation tool that leverages Google Search Grounding to find niche businesses and extracts their contact details into a downloadable list.",
+  "requestFramePermissions": []
+}
